@@ -1,7 +1,7 @@
 # Will you save Sam?
 Jogo da forca desenvolvido por: 
 
-Amanda Soares de Castro Moraes (ascm)
+Amanda Moraes (ascm)
                        
 Maria Eduarda dos Santos (mesps)
                        
